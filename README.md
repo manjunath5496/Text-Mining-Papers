@@ -1,7 +1,15 @@
 <h2> Text Mining Papers </h2>
 
 <ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/tx(44).pdf" style="text-decoration:none;">A Survey Paper on Text Mining - Techniques, Applications And Issues</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/tx(45).pdf" style="text-decoration:none;">Using Text Mining Techniques for Extracting Information from Research Articles</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/tx(46).pdf" style="text-decoration:none;">Using Text Mining Techniques to Identify Research Trends: A Case Study of Design Research</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/tx(47).pdf" style="text-decoration:none;">Text Mining with Information Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/tx(48).pdf" style="text-decoration:none;">Text Mining: Techniques and its Application</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/tx(49).pdf" style="text-decoration:none;">Text Mining: Techniques, Applications and Issues</a></li>
                              
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Mining-Papers/blob/master/tx(1).pdf" style="text-decoration:none;">Document Clustering</a></li>
